@@ -1,6 +1,6 @@
 # arachnea
 
-arachnea is a JavaScript library that allows you to perform efficient array operations using a fluent API approach inspired by the agility and efficiency of spiders.
+arachnea is a Python library that allows you to perform efficient array operations using a fluent API approach inspired by the agility and efficiency of spiders.
 
 ## Features
 
