@@ -4,7 +4,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='arachnea',
-    version='0.0.4',
+    version='0.0.5',
     packages=find_packages(),
     description='A Python library for efficient array operations using a fluent API.',
     long_description=open('README.md').read(),
